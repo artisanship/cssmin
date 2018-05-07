@@ -1,5 +1,5 @@
 {
-	"name": "locallab/cssmin",
+	"name": "artisanship/cssmin",
 	"description": "Minifying CSS",
 	"type": "library",
 	"keywords": ["css","minify"],
